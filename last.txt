@@ -1,0 +1,225 @@
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 24 2015, 22:43:06) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+ROUGE-1 measures with regard to reference  1 :
+recall =  0.051094890510948905
+precision =  0.15217391304347827
+F_measure =  0.07650273224043716
+
+ROUGE-1 measures with regard to reference  2 :
+recall =  0.13559322033898305
+precision =  0.17391304347826086
+F_measure =  0.1523809523809524
+
+ROUGE-1 measures with regard to reference  3 :
+recall =  0.0390625
+precision =  0.21739130434782608
+F_measure =  0.06622516556291391
+
+ROUGE-1 measures with regard to reference  4 :
+recall =  0.08571428571428572
+precision =  0.1956521739130435
+F_measure =  0.11920529801324505
+
+ROUGE-1_F-measure =  0.1523809523809524
+
+
+ROUGE-2 measures with regard to reference  1 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-2 measures with regard to reference  2 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-2 measures with regard to reference  3 :
+recall =  0.00392156862745098
+precision =  0.022222222222222223
+F_measure =  0.006666666666666667
+
+ROUGE-2 measures with regard to reference  4 :
+recall =  0.019230769230769232
+precision =  0.044444444444444446
+F_measure =  0.026845637583892624
+
+ROUGE-2_F-measure =  0.026845637583892624
+
+ROUGE-3 measures with regard to reference  1 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-3 measures with regard to reference  2 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-3 measures with regard to reference  3 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-3 measures with regard to reference  4 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-3_F-measure =  0
+
+ROUGE-4 measures with regard to reference  1 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4 measures with regard to reference  2 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4 measures with regard to reference  3 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4 measures with regard to reference  4 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4_F-measure =  0
+
+LCS_F-measure with regsrd to reference  1 :
+recall =  0.021897810218978103
+precision =  0.06521739130434782
+F-measure =  0.023477820008251247
+
+LCS_F-measure with regsrd to reference  2 :
+recall =  0.0847457627118644
+precision =  0.10869565217391304
+F-measure =  0.0924466907817584
+
+LCS_F-measure with regsrd to reference  3 :
+recall =  0.0234375
+precision =  0.13043478260869565
+F-measure =  0.02405468305173376
+
+LCS_F-measure with regsrd to reference  4 :
+recall =  0.047619047619047616
+precision =  0.10869565217391304
+F-measure =  0.052356208678994806
+
+>>> ================================ RESTART ================================
+>>> 
+ROUGE-1 measures with regard to reference  1 :
+recall =  0.45255474452554745
+precision =  0.45925925925925926
+F_measure =  0.45588235294117646
+
+ROUGE-1 measures with regard to reference  2 :
+recall =  0.559322033898305
+precision =  0.24444444444444444
+F_measure =  0.34020618556701027
+
+ROUGE-1 measures with regard to reference  3 :
+recall =  0.21484375
+precision =  0.4074074074074074
+F_measure =  0.28132992327365725
+
+ROUGE-1 measures with regard to reference  4 :
+recall =  0.5238095238095238
+precision =  0.4074074074074074
+F_measure =  0.4583333333333333
+
+ROUGE-1_F-measure =  0.4583333333333333
+
+
+ROUGE-2 measures with regard to reference  1 :
+recall =  0.10294117647058823
+precision =  0.1044776119402985
+F_measure =  0.1037037037037037
+
+ROUGE-2 measures with regard to reference  2 :
+recall =  0.1206896551724138
+precision =  0.05223880597014925
+F_measure =  0.07291666666666666
+
+ROUGE-2 measures with regard to reference  3 :
+recall =  0.00784313725490196
+precision =  0.014925373134328358
+F_measure =  0.010282776349614395
+
+ROUGE-2 measures with regard to reference  4 :
+recall =  0.11538461538461539
+precision =  0.08955223880597014
+F_measure =  0.10084033613445378
+
+ROUGE-2_F-measure =  0.1037037037037037
+
+ROUGE-3 measures with regard to reference  1 :
+recall =  0.007407407407407408
+precision =  0.007518796992481203
+F_measure =  0.00746268656716418
+
+ROUGE-3 measures with regard to reference  2 :
+recall =  0.017543859649122806
+precision =  0.007518796992481203
+F_measure =  0.010526315789473684
+
+ROUGE-3 measures with regard to reference  3 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-3 measures with regard to reference  4 :
+recall =  0.009708737864077669
+precision =  0.007518796992481203
+F_measure =  0.00847457627118644
+
+ROUGE-3_F-measure =  0.010526315789473684
+
+ROUGE-4 measures with regard to reference  1 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4 measures with regard to reference  2 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4 measures with regard to reference  3 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4 measures with regard to reference  4 :
+recall =  0.0
+precision =  0.0
+F_measure =  0.0
+
+ROUGE-4_F-measure =  0
+
+LCS_F-measure with regsrd to reference  1 :
+recall =  0.2116788321167883
+precision =  0.21481481481481482
+F-measure =  0.2132122404072716
+
+LCS_F-measure with regsrd to reference  2 :
+recall =  0.3389830508474576
+precision =  0.14814814814814814
+F-measure =  0.1628507356642811
+
+LCS_F-measure with regsrd to reference  3 :
+recall =  0.109375
+precision =  0.2074074074074074
+F-measure =  0.12191276963940026
+
+LCS_F-measure with regsrd to reference  4 :
+recall =  0.2571428571428571
+precision =  0.2
+F-measure =  0.21828358208955226
+
+>>> 
